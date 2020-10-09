@@ -4,6 +4,8 @@ public class HelloGitClass {
 		
 		System.out.println("Hello GIT !");
 		
+		System.out.println("Heloo GITHUB !");
+		
 	}
 
 }
